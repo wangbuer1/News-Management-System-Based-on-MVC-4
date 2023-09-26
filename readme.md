@@ -1,6 +1,10 @@
 # 基于mvc的新闻管理系统4
 
+## 获取方式
 
+扫描下方，回复关键词  ： “**新闻4**”   
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
